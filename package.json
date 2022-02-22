@@ -1,0 +1,17 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "snowpack dev"
+  },
+  "author": "Maaz Tanveer",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "snowpack": "^3.8.8"
+  }
+}
